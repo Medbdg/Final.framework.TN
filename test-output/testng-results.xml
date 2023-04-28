@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-26T21:54:30 EDT" name="Default suite" finished-at="2023-04-26T21:55:12 EDT" duration-ms="41416">
+    <groups>
+    </groups>
+    <test started-at="2023-04-26T21:54:30 EDT" name="Default test" finished-at="2023-04-26T21:55:12 EDT" duration-ms="41416">
+      <class name="com_TN_Frameeworkdesign.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:54:31 EDT" name="setUp" finished-at="2023-04-26T21:54:37 EDT" duration-ms="6772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginTutorialninjaWithValidUserNameAndValidPassword(java.lang.String,java.lang.String)[pri:1, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:54:37 EDT" name="verifyLoginTutorialninjaWithValidUserNameAndValidPassword" data-provider="TNExceldataWithDataProvider" finished-at="2023-04-26T21:54:39 EDT" duration-ms="1171" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[med.boudguig@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Medbdg0707@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTutorialninjaWithValidUserNameAndValidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:54:39 EDT" name="tearDown" finished-at="2023-04-26T21:54:39 EDT" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:54:39 EDT" name="setUp" finished-at="2023-04-26T21:54:45 EDT" duration-ms="5807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginTutorialninjaWithInvalidUserNameAndInvalidPassword()[pri:2, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:54:45 EDT" name="verifyLoginTutorialninjaWithInvalidUserNameAndInvalidPassword" finished-at="2023-04-26T21:54:45 EDT" duration-ms="817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTutorialninjaWithInvalidUserNameAndInvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:54:45 EDT" name="tearDown" finished-at="2023-04-26T21:54:46 EDT" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:54:46 EDT" name="setUp" finished-at="2023-04-26T21:54:51 EDT" duration-ms="5621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginTutorialninjaWithvalidUserNameAndInvalidPassword()[pri:3, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:54:51 EDT" name="verifyLoginTutorialninjaWithvalidUserNameAndInvalidPassword" finished-at="2023-04-26T21:54:52 EDT" duration-ms="702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTutorialninjaWithvalidUserNameAndInvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:54:52 EDT" name="tearDown" finished-at="2023-04-26T21:54:52 EDT" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:54:52 EDT" name="setUp" finished-at="2023-04-26T21:54:58 EDT" duration-ms="5784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginTutorialninjaWithInvalidUserNameAndvalidPassword()[pri:4, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:54:58 EDT" name="verifyLoginTutorialninjaWithInvalidUserNameAndvalidPassword" finished-at="2023-04-26T21:54:59 EDT" duration-ms="718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTutorialninjaWithInvalidUserNameAndvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:54:59 EDT" name="tearDown" finished-at="2023-04-26T21:54:59 EDT" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:54:59 EDT" name="setUp" finished-at="2023-04-26T21:55:05 EDT" duration-ms="5965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginTutorialninjaWithEmptyUserNameAndvalidPassword()[pri:5, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:55:05 EDT" name="verifyLoginTutorialninjaWithEmptyUserNameAndvalidPassword" finished-at="2023-04-26T21:55:05 EDT" duration-ms="545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTutorialninjaWithEmptyUserNameAndvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:55:05 EDT" name="tearDown" finished-at="2023-04-26T21:55:05 EDT" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:55:05 EDT" name="setUp" finished-at="2023-04-26T21:55:11 EDT" duration-ms="5464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginTutorialninjaWithValidUserNameAndEmptyPassword()[pri:6, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:55:11 EDT" name="verifyLoginTutorialninjaWithValidUserNameAndEmptyPassword" finished-at="2023-04-26T21:55:11 EDT" duration-ms="551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTutorialninjaWithValidUserNameAndEmptyPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com_TN_Frameeworkdesign.LoginTest@71a8adcf]" started-at="2023-04-26T21:55:11 EDT" name="tearDown" finished-at="2023-04-26T21:55:12 EDT" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com_TN_Frameeworkdesign.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

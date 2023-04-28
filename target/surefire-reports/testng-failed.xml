@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [TN Hybrid Automation Suite]">
+  <listeners>
+    <listener class-name="com.qa.listeners.MyListeners"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="TN Test Cases(failed)">
+    <classes>
+      <class name="com_TN_Frameeworkdesign.RegisterTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyRegisterAccountWithEmptyPasswordTextbox"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com_TN_Frameeworkdesign.RegisterTest -->
+    </classes>
+  </test> <!-- TN Test Cases(failed) -->
+</suite> <!-- Failed suite [TN Hybrid Automation Suite] -->
